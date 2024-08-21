@@ -6,16 +6,44 @@
       {
         "id": "d4b8ae758502c1ed",
         "type": "tabs",
+        "dimension": 51.955990220048896,
         "children": [
           {
-            "id": "90b2a634246617ca",
+            "id": "cf7397ef6f23ebda",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Domain Randomization/DR Review 2022.pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "cac6550554448903",
+        "type": "tabs",
+        "dimension": 48.044009779951104,
+        "children": [
+          {
+            "id": "87c54195172dd741",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test.md",
+                "file": "Domain Randomization/Domain Randomization.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "d3f8530b865958a0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Domain Randomization/DR Review 2022.pdf"
               }
             }
           }
@@ -69,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 357.5,
+    "collapsed": true
   },
   "right": {
     "id": "f9b15d41e4a94fdf",
@@ -85,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test.md",
+                "file": "Domain Randomization/DR Review 2022.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test.md",
+                "file": "Domain Randomization/DR Review 2022.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test.md"
+                "file": "Domain Randomization/DR Review 2022.pdf"
               }
             }
           }
@@ -146,10 +175,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90b2a634246617ca",
+  "active": "cf7397ef6f23ebda",
   "lastOpenFiles": [
-    "Test.md",
+    "Domain Randomization/Domain Randomization.md",
+    "Domain Randomization/DR Review 2022.pdf",
+    "System Identification/Dynamic System Identification.md",
+    "Domain Randomization/Closing the Sim-to-Real Loop- Adapting Simulation Randomization with Real World Experience.pdf",
+    "Capture d’écran 2024-08-20 à 11.51.29.png",
+    "Domain Randomization/Sim-to-Real Transfer of Robotic Control with Dynamics Randomization.pdf",
+    "Domain Randomization/Live Repetition Counting.pdf",
+    "System Identification/Dynamic System Identification - Experiment Design and Data Analysis.pdf",
+    "Domain Randomization",
+    "System Identification/J. P. Norton (auth.), Mario Milanese, John Norton, Hélène Piet-Lahanier, Éric Walter (eds.) - Bounding Approaches to System Identification-Springer US (1996).pdf",
+    "System Identification/Y. Zhu - Multivariable System Identification For Process Control-Elsevier Science (2001).pdf",
     "README.pdf",
+    "Test.md",
+    "System Identification",
     "create a link.md",
     "Welcome.md"
   ]
