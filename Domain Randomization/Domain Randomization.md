@@ -32,4 +32,9 @@ What can you randomise:
 
 ##### Papers
 * Adaptive Dynamic Randomization: *Muratore, F., Eilers, C., Gienger, M., and Peters, J. (2021a). Data-efficient Domain Randomization with Bayesian Optimization*
-* 
+
+If we define the expected discounted return as: $$J(\theta, \mathcal{E})=\mathbb{E}_{s_0 \textasciitilde \mu_\mathcal{E}(s_0), s_{t+1}\textasciitilde \mathcal{P}(s_t, a_t), a_t \textasciitilde \pi_\theta(a_t|s_t)}[\sum_{t=0}^{T-1}{\gamma^tr_\mathcal{E}(s_t, a_t)}|\theta, \mathcal{E}]$$ Where $\mathcal{E}$ represent the domain (environment) parameters.
+
+In DR, the goal is to maximize the expected discounted return for a distribution of domain parameters: $$J(\theta)=\mathbb{E}_{\mathcal{E}\textasciitilde p(\mathcal{E})}[J(\theta,\mathcal{E})]$$
+
+

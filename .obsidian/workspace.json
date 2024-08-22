@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain Randomization/DR Review 2022.pdf",
+                "file": "Domain Randomization/Domain Randomization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain Randomization/DR Review 2022.pdf",
+                "file": "Domain Randomization/Domain Randomization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain Randomization/DR Review 2022.pdf"
+                "file": "Domain Randomization/Domain Randomization.md"
               }
             }
           }
@@ -175,10 +175,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf7397ef6f23ebda",
+  "active": "87c54195172dd741",
   "lastOpenFiles": [
-    "Domain Randomization/Domain Randomization.md",
     "Domain Randomization/DR Review 2022.pdf",
+    "Domain Randomization/Domain Randomization.md",
     "System Identification/Dynamic System Identification.md",
     "Domain Randomization/Closing the Sim-to-Real Loop- Adapting Simulation Randomization with Real World Experience.pdf",
     "Capture d’écran 2024-08-20 à 11.51.29.png",
