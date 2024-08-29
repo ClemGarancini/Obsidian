@@ -6,7 +6,7 @@
       {
         "id": "d4b8ae758502c1ed",
         "type": "tabs",
-        "dimension": 51.955990220048896,
+        "dimension": 58.86308068459658,
         "children": [
           {
             "id": "cf7397ef6f23ebda",
@@ -17,14 +17,34 @@
                 "file": "Domain Randomization/DR Review 2022.pdf"
               }
             }
+          },
+          {
+            "id": "24beec11a8c3692d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Domain Randomization/Adaptive DR/Preparing for the Unknown- Learning a Universal Policy with Online System Identification.pdf"
+              }
+            }
           }
         ]
       },
       {
         "id": "cac6550554448903",
         "type": "tabs",
-        "dimension": 48.044009779951104,
+        "dimension": 41.136919315403425,
         "children": [
+          {
+            "id": "d3f8530b865958a0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Domain Randomization/DR Review 2022.pdf"
+              }
+            }
+          },
           {
             "id": "87c54195172dd741",
             "type": "leaf",
@@ -36,18 +56,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d3f8530b865958a0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Domain Randomization/DR Review 2022.pdf"
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain Randomization/Domain Randomization.md",
+                "file": "Domain Randomization/DR Review 2022.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain Randomization/Domain Randomization.md",
+                "file": "Domain Randomization/DR Review 2022.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain Randomization/Domain Randomization.md"
+                "file": "Domain Randomization/DR Review 2022.pdf"
               }
             }
           }
@@ -175,11 +186,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87c54195172dd741",
+  "active": "cf7397ef6f23ebda",
   "lastOpenFiles": [
-    "Domain Randomization/DR Review 2022.pdf",
     "Domain Randomization/Domain Randomization.md",
+    "Domain Randomization/DR Review 2022.pdf",
+    "Untitled.md",
+    "Domain Randomization/Adaptive DR/Preparing for the Unknown- Learning a Universal Policy with Online System Identification.pdf",
+    "Domain Randomization/Adaptive DR",
+    "Capture d’écran 2024-08-28 à 14.59.05.png",
+    "Capture d’écran 2024-08-28 à 14.58.38.png",
+    "RL Theory/Natural Policy Gradient.md",
     "System Identification/Dynamic System Identification.md",
+    "RL Theory",
     "Domain Randomization/Closing the Sim-to-Real Loop- Adapting Simulation Randomization with Real World Experience.pdf",
     "Capture d’écran 2024-08-20 à 11.51.29.png",
     "Domain Randomization/Sim-to-Real Transfer of Robotic Control with Dynamics Randomization.pdf",
@@ -187,10 +205,7 @@
     "System Identification/Dynamic System Identification - Experiment Design and Data Analysis.pdf",
     "Domain Randomization",
     "System Identification/J. P. Norton (auth.), Mario Milanese, John Norton, Hélène Piet-Lahanier, Éric Walter (eds.) - Bounding Approaches to System Identification-Springer US (1996).pdf",
-    "System Identification/Y. Zhu - Multivariable System Identification For Process Control-Elsevier Science (2001).pdf",
-    "README.pdf",
     "Test.md",
-    "System Identification",
     "create a link.md",
     "Welcome.md"
   ]
