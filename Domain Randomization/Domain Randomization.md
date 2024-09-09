@@ -1,23 +1,3 @@
-###### Interesting papers:
-* Live Repetition Counting (https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://openaccess.thecvf.com/content_iccv_2015/papers/Levy_Live_Repetition_Counting_ICCV_2015_paper.pdf&ved=2ahUKEwi83tHv8IOIAxWkElkFHVdSBhQQFnoECBsQAQ&usg=AOvVaw37fTPgliO2PNUduuBYAuK7): Model to recognise cycles in videos of human trained on randomly generated cycling pattern!!!!
-* RL^2: Fast RL via Slow RL: Meta-RL
-* SimOpt: Closing the Sim-to-Real Loop:
-Adapting Simulation Randomization with Real World Experience.
-* Active Domain Randomization
-
-More data = better
-Pre trained is unnecessary if you have enough data
-System ID is still important
-
-#### Gap in Physic
-What can you randomise:
-* Physical parameter
-* Noise applied to policy inputs
-* Sensor dropout (failure)
-* Physics discretization timestep
-* Backlash??
-* Random forces applied
-
 #### Why does it works?
 * Covering distribution
 	* High-dim space => massive amount of data needed to cover real data distribution
@@ -33,9 +13,16 @@ What can you randomise:
 * Adaptive Dynamic Randomization: *Muratore, F., Eilers, C., Gienger, M., and Peters, J. (2021a). Data-efficient Domain Randomization with Bayesian Optimization*
 
 ## Theory
-If we define the expected discounted return as: $$J(\theta, \mathcal{E})=\mathbb{E}_{s_0 \textasciitilde \mu_\mathcal{E}(s_0), s_{t+1}\textasciitilde \mathcal{P}(s_t, a_t), a_t \textasciitilde \pi_\theta(a_t|s_t)}[\sum_{t=0}^{T-1}{\gamma^tr_\mathcal{E}(s_t, a_t)}|\theta, \mathcal{E}]$$ Where $\mathcal{E}$ represent the domain (environment) parameters.
+In classical RL we define the return as:
+$$J(\theta)=\mathbb{E}_{s \textasciitilde \mu^\pi, a_t \textasciitilde \pi_\theta(a_t|s_t)}[\sum_{t=0}^{T-1}{\gamma^tr(s_t, a_t)}|\theta]$$
 
-In DR, the goal is to maximize the expected discounted return for a distribution of domain parameters: $$J(\theta)=\mathbb{E}_{\mathcal{E}\textasciitilde p(\mathcal{E})}[J(\theta,\mathcal{E})]$$
+In DR-RL, we add an environment parameter $p \textasciitilde \mathcal{P}$  
+
+Thus we define the expected discounted return as: $$J(\theta, p)=\mathbb{E}_{s \textasciitilde \mu_p^\pi, a_t \textasciitilde \pi_\theta(a_t|s_t)}[\sum_{t=0}^{T-1}{\gamma^tr_p(s_t, a_t)}|\theta, p]$$The goal is then to maximize the expected discounted return for a distribution of domain parameters: $$\begin{align}
+J(\theta) &=\mathbb{E}_{p \textasciitilde \mathcal{P}}[J(\theta,p)] \\
+&= \mathbb{E}_{p \textasciitilde \mathcal{P}}[\mathbb{E}_{s \textasciitilde \mu_p^\pi, a_t \textasciitilde \pi_\theta(a_t|s_t)}[\sum_{t=0}^{T-1}{\gamma^tr_p(s_t, a_t)}|\theta, p]]
+\end{align}$$
+
 ### Measurement of the Reality Gap
 * *Estimated STR (Sim2Real) Disparity*: $$\tilde D(c) = \frac{1}{N} \sum_{c_i \in C_T}{\frac{D(c_i)}{b\_dist(c, c_i)}}$$Where $D$ is the real STR Disparity (comparison of trajectories in Sim and IRL), $C_T$ are the models already tested IRL, $b\_dist$ is the *behavioural distance* between two models (distance between parameter vectors). **Q: Why compare the model with the ones that are very different?**
 * *Simulation Optimization Bias (SOB)*: Standard deviation between the true optimum $\theta^*$ and the sample-based optimum $\theta^*_n$, $n$ represents the randomized domains. $$b(\tilde J_n(\theta_n^*)) = \mathbb{E}_\mathcal{E}[\max_{\tilde \theta \in \Theta} \tilde J_n(\tilde \theta)] - \max_{\tilde \theta \in \Theta} \mathbb{E}_\mathcal{E}[J(\tilde \theta, \mathcal{E})]  $$
@@ -107,6 +94,15 @@ Idea: Adapt model parameters by gradient ascent on average return over domains -
 
 Try to generate simulators that are indistinguishable from real world according to a discriminator (?)
 
+
+### Adversarial Domain Randomization
+Adversarial perturbations cause drops in policies performance -> Augment data with adversarially-perturbed examples or detect and neutralize (hard).
+
+**Two-Player Games**
+A *policy player (PP)* (max the reward) and a *model player (MP)* (min the pred error of data collected by PP) ??
+
+Choice in manipulate state or observations?
+
 ## Ideas
 **Q: What to randomize?** 
 Problem dependent: gust of wind for drones, terrain for ground robot. Start with a small set of parameters to shorten the evaluation of expectation over domains.
@@ -132,9 +128,13 @@ Specific Policies that search for data IRL?
 - Bayesian Optimization (BO)
 - Minimizes distance between IRL / Simu
 - Restrictions on Domain Parameter Distribution (normal, uniform, etc...)
+- Domain Discriminator (distinguish between Real and Sim)
 
 ## To Learn
 - Bayesian Optimization
 - Gaussian Processes
 - Likelihood-Free Inference
 - MPC
+
+# Papers
+* Variance Reduced Domain Randomization for Reinforcement Learning With Policy Gradient, *Yuankun Jiang , Chenglin Li, Wenrui Dai, Junni Zou, and Hongkai Xiong*: [[Variance Reduced Domain Randomization for Reinforcement Learning With Policy Gradient]]
