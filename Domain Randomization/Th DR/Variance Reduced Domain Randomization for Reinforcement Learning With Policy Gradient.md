@@ -17,3 +17,8 @@ Dividing space of environments into subspace -> baseline is state/subspace-depen
 $$b^*(s,p)=\frac{\mathbb{E}_\pi[G(a,s)Q_\pi(s,a,p)]}{\mathbb{E}_\pi[G(a,s)]}$$ where $G(a,s) = \nabla_\theta\log \pi_\theta(a|s)^T\nabla_\theta\log \pi_\theta(a|s)$.
 
 * Need to maintain a baseline for each environment -> hard
+
+**Cluster criterion:**
+Clusterize on the environment parametric space:
+* Sample a set of environment parameters $\{p_e\}_{e=0}^{H-1}$ uniformly
+* Determine the cluster set $\{C_i\}_{i=1}^M$ with their labels verifying $\min_{i}|p_e-u_i|$ 
