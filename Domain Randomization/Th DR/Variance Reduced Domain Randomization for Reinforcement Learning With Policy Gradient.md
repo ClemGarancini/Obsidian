@@ -1,3 +1,4 @@
+
 *Yuankun Jiang , Chenglin Li, Wenrui Dai, Junni Zou, and Hongkai Xiong*
 
 **Idea:**  DR induce high variance -> the paper proposes a Variance Reduced Domain Randomization (VRDR) baseline to address this problem. 
