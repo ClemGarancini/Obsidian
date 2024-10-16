@@ -14,7 +14,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "RL Theory/RLbook2020.pdf"
+                "file": "Domain Randomization/Adaptive DR/Preparing for the Unknown- Learning a Universal Policy with Online System Identification.pdf"
               }
             }
           }
@@ -36,8 +36,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9279eb1e7feb6b26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Domain Randomization/Domain Randomization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RL Theory/RLbook2020.pdf",
+                "file": "Domain Randomization/Adaptive DR/Preparing for the Unknown- Learning a Universal Policy with Online System Identification.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RL Theory/RLbook2020.pdf",
+                "file": "Domain Randomization/Adaptive DR/Preparing for the Unknown- Learning a Universal Policy with Online System Identification.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RL Theory/RLbook2020.pdf"
+                "file": "Domain Randomization/Adaptive DR/Preparing for the Unknown- Learning a Universal Policy with Online System Identification.pdf"
               }
             }
           }
@@ -164,20 +177,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62d3a53146f72ba8",
+  "active": "d4607c2549e2247c",
   "lastOpenFiles": [
-    "Sim2Real.md",
+    "Transferring_policy_of_deep_re.pdf",
+    "Domain Randomization/Sim-to-Real Transfer of Robotic Control with Dynamics Randomization.pdf",
+    "Domain Randomization/Live Repetition Counting.pdf",
+    "Domain Randomization/DR Review 2022.pdf",
+    "Domain Randomization/Domain Randomization.md",
+    "Domain Randomization/Learning_Locomotion_for_Quadruped_Robots_via_Distributional_Ensemble_Actor-Critic.pdf",
+    "Domain Randomization/Learning Locomotion for Quadruped Robots via Distributional Ensemble Actor-Critic.md",
     "RL Theory/RLbook2020.pdf",
+    "Sim2Real.md",
     "Sim2Real_Transfer_in_Deep_RL_for_Robotics_a_Survey.pdf",
     "Images/Capture d’écran 2024-09-24 à 11.06.05.png",
     "Capture d’écran 2024-09-24 à 11.06.05.png.sb-9a43c78c-X3fUKv",
     "System Identification/Dynamic System Identification.md",
     "Images/Capture d’écran 2024-09-24 à 09.49.46.png",
     "Images/Capture d’écran 2024-09-06 à 11.48.20.png",
-    "Domain Randomization/Domain Randomization.md",
     "S.md",
-    "Domain Randomization/Learning_Locomotion_for_Quadruped_Robots_via_Distributional_Ensemble_Actor-Critic.pdf",
-    "Domain Randomization/Learning Locomotion for Quadruped Robots via Distributional Ensemble Actor-Critic.md",
     "Domain Randomization/Th DR/Variance Reduced Domain Randomization for Reinforcement Learning With Policy Gradient.md",
     "Domain Randomization/Adaptive DR/Active_Domain_Randomization.md",
     "Domain Randomization/Adaptive DR/Active_Domain_Randomization.pdf",
@@ -185,9 +202,6 @@
     "Domain Randomization/Th DR",
     "RL Theory/Natural Policy Gradient.md",
     "RL Formulation.md",
-    "Domain Randomization/DR Review 2022.pdf",
-    "Domain Randomization/Live Repetition Counting.pdf",
-    "Domain Randomization/Adaptive DR/Preparing for the Unknown- Learning a Universal Policy with Online System Identification.pdf",
     "Images/Capture d’écran 2024-08-28 à 14.59.05.png",
     "Test.md",
     "Welcome.md",
