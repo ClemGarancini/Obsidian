@@ -6,7 +6,7 @@
       {
         "id": "834d40bd64718b4b",
         "type": "tabs",
-        "dimension": 53.78729915837796,
+        "dimension": 73.53300733496333,
         "children": [
           {
             "id": "d4607c2549e2247c",
@@ -14,7 +14,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Domain Randomization/Adaptive DR/Preparing for the Unknown- Learning a Universal Policy with Online System Identification.pdf"
+                "file": "Domain Randomization/Learning_Locomotion_for_Quadruped_Robots_via_Distributional_Ensemble_Actor-Critic.pdf"
               }
             }
           }
@@ -23,7 +23,7 @@
       {
         "id": "f52599dcc5349020",
         "type": "tabs",
-        "dimension": 46.21270084162204,
+        "dimension": 26.466992665036678,
         "children": [
           {
             "id": "25568212ff7bf907",
@@ -48,9 +48,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "68c3ecd13aba374c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Domain Randomization/Learning Locomotion for Quadruped Robots via Distributional Ensemble Actor-Critic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f9b15d41e4a94fdf",
@@ -116,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain Randomization/Adaptive DR/Preparing for the Unknown- Learning a Universal Policy with Online System Identification.pdf",
+                "file": "Domain Randomization/Learning_Locomotion_for_Quadruped_Robots_via_Distributional_Ensemble_Actor-Critic.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain Randomization/Adaptive DR/Preparing for the Unknown- Learning a Universal Policy with Online System Identification.pdf",
+                "file": "Domain Randomization/Learning_Locomotion_for_Quadruped_Robots_via_Distributional_Ensemble_Actor-Critic.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain Randomization/Adaptive DR/Preparing for the Unknown- Learning a Universal Policy with Online System Identification.pdf"
+                "file": "Domain Randomization/Learning_Locomotion_for_Quadruped_Robots_via_Distributional_Ensemble_Actor-Critic.pdf"
               }
             }
           }
@@ -179,13 +192,14 @@
   },
   "active": "d4607c2549e2247c",
   "lastOpenFiles": [
+    "Domain Randomization/Learning Locomotion for Quadruped Robots via Distributional Ensemble Actor-Critic.md",
+    "Domain Randomization/Learning_Locomotion_for_Quadruped_Robots_via_Distributional_Ensemble_Actor-Critic.pdf",
+    "Domain Randomization/Adaptive DR/Preparing for the Unknown- Learning a Universal Policy with Online System Identification.pdf",
     "Transferring_policy_of_deep_re.pdf",
     "Domain Randomization/Sim-to-Real Transfer of Robotic Control with Dynamics Randomization.pdf",
     "Domain Randomization/Live Repetition Counting.pdf",
     "Domain Randomization/DR Review 2022.pdf",
     "Domain Randomization/Domain Randomization.md",
-    "Domain Randomization/Learning_Locomotion_for_Quadruped_Robots_via_Distributional_Ensemble_Actor-Critic.pdf",
-    "Domain Randomization/Learning Locomotion for Quadruped Robots via Distributional Ensemble Actor-Critic.md",
     "RL Theory/RLbook2020.pdf",
     "Sim2Real.md",
     "Sim2Real_Transfer_in_Deep_RL_for_Robotics_a_Survey.pdf",
@@ -198,8 +212,6 @@
     "Domain Randomization/Th DR/Variance Reduced Domain Randomization for Reinforcement Learning With Policy Gradient.md",
     "Domain Randomization/Adaptive DR/Active_Domain_Randomization.md",
     "Domain Randomization/Adaptive DR/Active_Domain_Randomization.pdf",
-    "Domain Randomization/Th DR/Variance_Reduced_Domain_Randomization_for_Reinforcement_Learning_With_Policy_Gradient.pdf",
-    "Domain Randomization/Th DR",
     "RL Theory/Natural Policy Gradient.md",
     "RL Formulation.md",
     "Images/Capture d’écran 2024-08-28 à 14.59.05.png",
