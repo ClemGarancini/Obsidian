@@ -15,7 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "Domain Randomization/Learning_Locomotion_for_Quadruped_Robots_via_Distributional_Ensemble_Actor-Critic.pdf"
-              }
+              },
+              "icon": "lucide-file-text",
+              "title": "Learning_Locomotion_for_Quadruped_Robots_via_Distributional_Ensemble_Actor-Critic"
             }
           }
         ]
@@ -34,7 +36,9 @@
                 "file": "System Identification/Dynamic System Identification.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Dynamic System Identification"
             }
           },
           {
@@ -46,7 +50,9 @@
                 "file": "Domain Randomization/Domain Randomization.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Domain Randomization"
             }
           },
           {
@@ -58,7 +64,9 @@
                 "file": "Domain Randomization/Learning Locomotion for Quadruped Robots via Distributional Ensemble Actor-Critic.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Learning Locomotion for Quadruped Robots via Distributional Ensemble Actor-Critic"
             }
           }
         ],
@@ -82,7 +90,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -97,7 +107,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -105,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -136,7 +150,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Learning_Locomotion_for_Quadruped_Robots_via_Distributional_Ensemble_Actor-Critic"
             }
           },
           {
@@ -148,7 +164,9 @@
                 "file": "Domain Randomization/Learning_Locomotion_for_Quadruped_Robots_via_Distributional_Ensemble_Actor-Critic.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Learning_Locomotion_for_Quadruped_Robots_via_Distributional_Ensemble_Actor-Critic"
             }
           },
           {
@@ -159,7 +177,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -169,7 +189,9 @@
               "type": "outline",
               "state": {
                 "file": "Domain Randomization/Learning_Locomotion_for_Quadruped_Robots_via_Distributional_Ensemble_Actor-Critic.pdf"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Learning_Locomotion_for_Quadruped_Robots_via_Distributional_Ensemble_Actor-Critic"
             }
           }
         ]
