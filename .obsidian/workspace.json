@@ -6,7 +6,6 @@
       {
         "id": "dc4d1728ce29dd71",
         "type": "tabs",
-        "dimension": 75.36674816625917,
         "children": [
           {
             "id": "fbfe1ab3827c8fed",
@@ -18,27 +17,6 @@
               },
               "icon": "lucide-file-text",
               "title": "Learning_Domain_Randomization_Distributions_for_Training_Robust_Locomotion_Policies"
-            }
-          }
-        ]
-      },
-      {
-        "id": "61916d4d5f6afd4d",
-        "type": "tabs",
-        "dimension": 24.633251833740832,
-        "children": [
-          {
-            "id": "00fc998eb1fd8950",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning Domain Randomization Distributions for Training Robust Locomotion Policies.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Learning Domain Randomization Distributions for Training Robust Locomotion Policies"
             }
           }
         ]
