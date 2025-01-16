@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Domain Randomization/Adaptive DR/Neural Posterior Domain Randomization.pdf"
+                "file": "Domain Randomization/Adaptive DR/Closing the Sim-to-Real Loop- Adapting Simulation Randomization with Real World Experience.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Neural Posterior Domain Randomization"
+              "title": "Closing the Sim-to-Real Loop- Adapting Simulation Randomization with Real World Experience"
             }
           }
         ]
@@ -163,21 +163,20 @@
   "active": "1dfdd158c82eaa4a",
   "lastOpenFiles": [
     "Domain Randomization/Adaptive DR/Fingerprint Policy Optimization for Robust RL.pdf",
-    "Domain Randomization/Adaptive DR/Neural Posterior Domain Randomization.pdf",
+    "Domain Randomization/Sim-to-Real Transfer of Robotic Control with Dynamics Randomization.pdf",
+    "Domain Randomization/DR Review 2022.pdf",
+    "Domain Randomization/Domain Randomization.md",
     "Domain Randomization/Adaptive DR/Learning_Domain_Randomization_Distributions_for_Training_Robust_Locomotion_Policies.pdf",
+    "Domain Randomization/Adaptive DR/Learning_Locomotion_for_Quadruped_Robots_via_Distributional_Ensemble_Actor-Critic.pdf",
+    "Domain Randomization/Adaptive DR/Neural Posterior Domain Randomization.pdf",
     "Learning Domain Randomization Distributions for Training Robust Locomotion Policies.md",
     "Domain Randomization/Adaptive DR/Closing the Sim-to-Real Loop- Adapting Simulation Randomization with Real World Experience.pdf",
     "Closing the Sim2Real Loop.md",
     "Transferring_policy_of_deep_re.pdf",
-    "Domain Randomization/Adaptive DR/Learning_Locomotion_for_Quadruped_Robots_via_Distributional_Ensemble_Actor-Critic.pdf",
     "Domain Randomization/Adaptive DR/Active_Domain_Randomization.pdf",
-    "Domain Randomization/DR Review 2022.pdf",
     "Domain Randomization/Learning Locomotion for Quadruped Robots via Distributional Ensemble Actor-Critic.md",
-    "Domain Randomization/Sim-to-Real Transfer of Robotic Control with Dynamics Randomization.pdf",
     "System Identification/Y. Zhu - Multivariable System Identification For Process Control-Elsevier Science (2001).pdf",
-    "System Identification/J. P. Norton (auth.), Mario Milanese, John Norton, Hélène Piet-Lahanier, Éric Walter (eds.) - Bounding Approaches to System Identification-Springer US (1996).pdf",
     "Domain Randomization/Adaptive DR/Active_Domain_Randomization.md",
-    "Domain Randomization/Domain Randomization.md",
     "Sim2Real.md",
     "Images/Capture d’écran 2024-09-24 à 11.06.05.png",
     "System Identification/Dynamic System Identification.md",
