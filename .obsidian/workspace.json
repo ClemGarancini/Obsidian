@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Domain Randomization/Adaptive DR/Closing the Sim-to-Real Loop- Adapting Simulation Randomization with Real World Experience.pdf"
+                "file": "Domain Randomization/Adaptive DR/Neural Posterior Domain Randomization.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Closing the Sim-to-Real Loop- Adapting Simulation Randomization with Real World Experience"
+              "title": "Neural Posterior Domain Randomization"
             }
           }
         ]
@@ -162,6 +162,7 @@
   },
   "active": "1dfdd158c82eaa4a",
   "lastOpenFiles": [
+    "Domain Randomization/Adaptive DR/Closing the Sim-to-Real Loop- Adapting Simulation Randomization with Real World Experience.pdf",
     "Domain Randomization/Adaptive DR/Fingerprint Policy Optimization for Robust RL.pdf",
     "Domain Randomization/Sim-to-Real Transfer of Robotic Control with Dynamics Randomization.pdf",
     "Domain Randomization/DR Review 2022.pdf",
@@ -170,7 +171,6 @@
     "Domain Randomization/Adaptive DR/Learning_Locomotion_for_Quadruped_Robots_via_Distributional_Ensemble_Actor-Critic.pdf",
     "Domain Randomization/Adaptive DR/Neural Posterior Domain Randomization.pdf",
     "Learning Domain Randomization Distributions for Training Robust Locomotion Policies.md",
-    "Domain Randomization/Adaptive DR/Closing the Sim-to-Real Loop- Adapting Simulation Randomization with Real World Experience.pdf",
     "Closing the Sim2Real Loop.md",
     "Transferring_policy_of_deep_re.pdf",
     "Domain Randomization/Adaptive DR/Active_Domain_Randomization.pdf",
