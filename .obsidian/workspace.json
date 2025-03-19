@@ -18,8 +18,21 @@
               "icon": "lucide-file-text",
               "title": "Neural Posterior Domain Randomization"
             }
+          },
+          {
+            "id": "91a233601d32e4d0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,7 +51,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -160,7 +174,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1dfdd158c82eaa4a",
+  "active": "91a233601d32e4d0",
   "lastOpenFiles": [
     "Domain Randomization/Adaptive DR/Closing the Sim-to-Real Loop- Adapting Simulation Randomization with Real World Experience.pdf",
     "Domain Randomization/Adaptive DR/Fingerprint Policy Optimization for Robust RL.pdf",
