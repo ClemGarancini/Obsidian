@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d63ca1bf260d5920",
+        "id": "57dbffe310c67c10",
         "type": "tabs",
         "children": [
           {
-            "id": "1dfdd158c82eaa4a",
+            "id": "e99e1636bd5a006d",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Domain Randomization/Adaptive DR/Neural Posterior Domain Randomization.pdf"
+                "file": "Autonomous Blimp Control using DRL.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Neural Posterior Domain Randomization"
-            }
-          },
-          {
-            "id": "91a233601d32e4d0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "title": "Autonomous Blimp Control using DRL"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 418.5
   },
   "right": {
     "id": "f9b15d41e4a94fdf",
@@ -174,22 +161,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "91a233601d32e4d0",
+  "active": "e99e1636bd5a006d",
   "lastOpenFiles": [
-    "Domain Randomization/Adaptive DR/Closing the Sim-to-Real Loop- Adapting Simulation Randomization with Real World Experience.pdf",
-    "Domain Randomization/Adaptive DR/Fingerprint Policy Optimization for Robust RL.pdf",
-    "Domain Randomization/Sim-to-Real Transfer of Robotic Control with Dynamics Randomization.pdf",
-    "Domain Randomization/DR Review 2022.pdf",
+    "Gaussian Process/Gaussian_Processes_and_Reinforcement_Learning_for_Identification_and_Control_of_an_Autonomous_Blimp.pdf",
+    "Gaussian Process/GP with RL/GP for value or policy estimation/Autonomous_blimp_control_using_model-free_reinforcement_learning_in_a_continuous_state_and_action_space.pdf",
+    "Gaussian Process/GP with RL/GP for value or policy estimation/Adaptive_autonomous_control_using_online_value_iteration_with_gaussian_processes.pdf",
+    "Gaussian Process/GP Theory/Gaussian-processes-for-regression.pdf",
+    "Gaussian Process/GP Theory/System Dynamics prediction/Dynamic imitation in a humanoid robot through nonparametric probabilistic inference.pdf",
+    "Autonomous Blimp Control using DRL.pdf",
+    "To Read/Derivative observations in Gaussian Process Models of Dynamic Systems.pdf",
+    "Gaussian Process/GP Theory/System Dynamics prediction/A case based comparison of identification with neural network and Gaussian process models.pdf",
+    "To Read/Gaussian Process Priors With Uncertain Inputs & Application to Multiple-Step Ahead Time Series Forecastin.pdf",
+    "To Read/Dynamic Systems Identification with Gaussian Processes.pdf",
+    "To Read/NONLINEAR ADAPTIVE CONTROL USING NONPARAMETRIC GAUSSIAN PROCESS PRIOR MODELS.pdf",
     "Domain Randomization/Domain Randomization.md",
-    "Domain Randomization/Adaptive DR/Learning_Domain_Randomization_Distributions_for_Training_Robust_Locomotion_Policies.pdf",
-    "Domain Randomization/Adaptive DR/Learning_Locomotion_for_Quadruped_Robots_via_Distributional_Ensemble_Actor-Critic.pdf",
-    "Domain Randomization/Adaptive DR/Neural Posterior Domain Randomization.pdf",
     "Learning Domain Randomization Distributions for Training Robust Locomotion Policies.md",
     "Closing the Sim2Real Loop.md",
-    "Transferring_policy_of_deep_re.pdf",
-    "Domain Randomization/Adaptive DR/Active_Domain_Randomization.pdf",
     "Domain Randomization/Learning Locomotion for Quadruped Robots via Distributional Ensemble Actor-Critic.md",
-    "System Identification/Y. Zhu - Multivariable System Identification For Process Control-Elsevier Science (2001).pdf",
     "Domain Randomization/Adaptive DR/Active_Domain_Randomization.md",
     "Sim2Real.md",
     "Images/Capture d’écran 2024-09-24 à 11.06.05.png",
