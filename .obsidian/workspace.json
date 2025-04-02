@@ -13,13 +13,122 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Autonomous Blimp Control using DRL.pdf"
+                "file": "RL Theory/RLbook2020.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Autonomous Blimp Control using DRL"
+              "title": "RLbook2020"
+            }
+          },
+          {
+            "id": "75c2acac5a753fdc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Gaussian Process/Gaussian_Processes_and_Reinforcement_Learning_for_Identification_and_Control_of_an_Autonomous_Blimp.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Gaussian_Processes_and_Reinforcement_Learning_for_Identification_and_Control_of_an_Autonomous_Blimp"
+            }
+          },
+          {
+            "id": "92942c39321d6d20",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Gaussian Process/GP Theory/Gaussian-processes-for-regression.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Gaussian-processes-for-regression"
+            }
+          },
+          {
+            "id": "5a76e29f41bb04f3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Memoires/2019_PierreYvesLajoie.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "2019_PierreYvesLajoie"
+            }
+          },
+          {
+            "id": "895c84d96c7c598a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Memoires/2021_NicolasValenchon.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "2021_NicolasValenchon"
+            }
+          },
+          {
+            "id": "f06f6a8d68d2e5c3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Memoires/2022_UlrichDahAchinanon.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "2022_UlrichDahAchinanon"
+            }
+          },
+          {
+            "id": "9395052eca1c41b2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Memoires/2020_BenjaminRamtoula.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "2020_BenjaminRamtoula"
+            }
+          },
+          {
+            "id": "5e1a9d3c320b5e67",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Memoires/2022_DavidVielfaure.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "2022_DavidVielfaure"
+            }
+          },
+          {
+            "id": "aeb1d54cebc0983c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Memoires/2021_YannBouteiller.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "2021_YannBouteiller"
+            }
+          },
+          {
+            "id": "ccaac3da0967362f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Memoires/2021_SamuelArseneault.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "2021_SamuelArseneault"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -161,23 +270,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e99e1636bd5a006d",
+  "active": "92942c39321d6d20",
   "lastOpenFiles": [
     "Gaussian Process/Gaussian_Processes_and_Reinforcement_Learning_for_Identification_and_Control_of_an_Autonomous_Blimp.pdf",
-    "Gaussian Process/GP with RL/GP for value or policy estimation/Autonomous_blimp_control_using_model-free_reinforcement_learning_in_a_continuous_state_and_action_space.pdf",
-    "Gaussian Process/GP with RL/GP for value or policy estimation/Adaptive_autonomous_control_using_online_value_iteration_with_gaussian_processes.pdf",
+    "Memoires/2021_YannBouteiller.pdf",
     "Gaussian Process/GP Theory/Gaussian-processes-for-regression.pdf",
-    "Gaussian Process/GP Theory/System Dynamics prediction/Dynamic imitation in a humanoid robot through nonparametric probabilistic inference.pdf",
-    "Autonomous Blimp Control using DRL.pdf",
-    "To Read/Derivative observations in Gaussian Process Models of Dynamic Systems.pdf",
-    "Gaussian Process/GP Theory/System Dynamics prediction/A case based comparison of identification with neural network and Gaussian process models.pdf",
-    "To Read/Gaussian Process Priors With Uncertain Inputs & Application to Multiple-Step Ahead Time Series Forecastin.pdf",
-    "To Read/Dynamic Systems Identification with Gaussian Processes.pdf",
-    "To Read/NONLINEAR ADAPTIVE CONTROL USING NONPARAMETRIC GAUSSIAN PROCESS PRIOR MODELS.pdf",
+    "Memoires/2021_SamuelArseneault.pdf",
+    "Memoires/2022_DavidVielfaure.pdf",
+    "Memoires/2022_UlrichDahAchinanon.pdf",
+    "Memoires/2020_BenjaminRamtoula.pdf",
+    "Memoires/2021_NicolasValenchon.pdf",
+    "Memoires/2019_PierreYvesLajoie.pdf",
+    "Gaussian Process/GP Theory/System Dynamics prediction/ Switching and Learning in Feedback Systems.pdf",
+    "Gaussian Process/RMA- Rapid Motor Adaptation for Legged Robots.pdf",
+    "Domain Randomization/Learning Locomotion for Quadruped Robots via Distributional Ensemble Actor-Critic.md",
+    "RL Theory/Natural Policy Gradient.md",
     "Domain Randomization/Domain Randomization.md",
     "Learning Domain Randomization Distributions for Training Robust Locomotion Policies.md",
     "Closing the Sim2Real Loop.md",
-    "Domain Randomization/Learning Locomotion for Quadruped Robots via Distributional Ensemble Actor-Critic.md",
     "Domain Randomization/Adaptive DR/Active_Domain_Randomization.md",
     "Sim2Real.md",
     "Images/Capture d’écran 2024-09-24 à 11.06.05.png",
@@ -186,7 +296,6 @@
     "Images/Capture d’écran 2024-09-06 à 11.48.20.png",
     "S.md",
     "Domain Randomization/Th DR/Variance Reduced Domain Randomization for Reinforcement Learning With Policy Gradient.md",
-    "RL Theory/Natural Policy Gradient.md",
     "RL Formulation.md",
     "Images/Capture d’écran 2024-08-28 à 14.59.05.png",
     "Test.md",
