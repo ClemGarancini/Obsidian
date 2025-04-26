@@ -37,10 +37,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Gaussian Process/GP Theory/Gaussian-processes-for-regression.pdf"
+                "file": "Gaussian Process/Gaussian_Processes_and_Reinforcement_Learning_for_Identification_and_Control_of_an_Autonomous_Blimp.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Gaussian-processes-for-regression"
+              "title": "Gaussian_Processes_and_Reinforcement_Learning_for_Identification_and_Control_of_an_Autonomous_Blimp"
             }
           },
           {
@@ -272,12 +272,12 @@
   },
   "active": "92942c39321d6d20",
   "lastOpenFiles": [
-    "Autonomous Blimp Control using DRL.pdf",
-    "Gaussian Process/GP with RL/GP for value or policy estimation/Autonomous_blimp_control_using_model-free_reinforcement_learning_in_a_continuous_state_and_action_space.pdf",
-    "Gaussian Process/Gaussian_Processes_and_Reinforcement_Learning_for_Identification_and_Control_of_an_Autonomous_Blimp.pdf",
     "Gaussian Process/GP with RL/GP for value or policy estimation/Gaussian-processes-in-reinforcement-learning.pdf",
-    "Gaussian Process/GP with RL/GP for value or policy estimation/Adaptive_autonomous_control_using_online_value_iteration_with_gaussian_processes.pdf",
+    "Gaussian Process/GP with RL/GP for value or policy estimation/Autonomous_blimp_control_using_model-free_reinforcement_learning_in_a_continuous_state_and_action_space.pdf",
     "Gaussian Process/GP Theory/Gaussian-processes-for-regression.pdf",
+    "Autonomous Blimp Control using DRL.pdf",
+    "Gaussian Process/Gaussian_Processes_and_Reinforcement_Learning_for_Identification_and_Control_of_an_Autonomous_Blimp.pdf",
+    "Gaussian Process/GP with RL/GP for value or policy estimation/Adaptive_autonomous_control_using_online_value_iteration_with_gaussian_processes.pdf",
     "Memoires/2021_YannBouteiller.pdf",
     "Memoires/2021_SamuelArseneault.pdf",
     "Memoires/2022_DavidVielfaure.pdf",
