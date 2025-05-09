@@ -13,10 +13,22 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Gaussian Process/Gaussian_Processes_and_Reinforcement_Learning_for_Identification_and_Control_of_an_Autonomous_Blimp.pdf"
+                "file": "A neural network mode for PX4.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Gaussian_Processes_and_Reinforcement_Learning_for_Identification_and_Control_of_an_Autonomous_Blimp"
+              "title": "A neural network mode for PX4"
+            }
+          },
+          {
+            "id": "fe823a2250300d02",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "A neural network mode for PX4.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "A neural network mode for PX4"
             }
           },
           {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 528.5
+    "width": 263.5
   },
   "right": {
     "id": "f9b15d41e4a94fdf",
@@ -210,19 +222,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62d3a53146f72ba8",
+  "active": "fe823a2250300d02",
   "lastOpenFiles": [
-    "Gaussian Process/GP Theory/Gaussian-processes-for-regression.pdf",
-    "PRISM.pdf",
-    "2504.20520v1.pdf",
+    "Memoires/2019_PierreYvesLajoie.pdf",
+    "A neural network mode for PX4.pdf",
+    "Memoires/2025_Alice.pdf",
     "Gaussian Process/Gaussian_Processes_and_Reinforcement_Learning_for_Identification_and_Control_of_an_Autonomous_Blimp.pdf",
+    "PRISM.pdf",
+    "Gaussian Process/GP Theory/Gaussian-processes-for-regression.pdf",
+    "2504.20520v1.pdf",
     "Gaussian Process/GP Theory/System Dynamics prediction/Dynamic Systems Identification with Gaussian Processes.pdf",
     "Gaussian Process/GP Theory/EVALUATION OF GAUSSIAN PROCESSES AND OTHER METHODS FOR NON-LINEAR REGRESSION.pdf",
     "RL Theory/RLbook2020.pdf",
     "Gaussian Process/GP Theory/System Dynamics prediction/A case based comparison of identification with neural network and Gaussian process models.pdf",
-    "Gaussian Process/GP Theory/System Dynamics prediction/ Switching and Learning in Feedback Systems.pdf",
-    "Gaussian Process/GP with RL/GP for value or policy estimation/Gaussian-processes-in-reinforcement-learning.pdf",
-    "Gaussian Process/GP with RL/GP for value or policy estimation/Autonomous_blimp_control_using_model-free_reinforcement_learning_in_a_continuous_state_and_action_space.pdf",
     "Domain Randomization/Learning Locomotion for Quadruped Robots via Distributional Ensemble Actor-Critic.md",
     "RL Theory/Natural Policy Gradient.md",
     "Domain Randomization/Domain Randomization.md",
