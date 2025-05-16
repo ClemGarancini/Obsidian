@@ -25,10 +25,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "A neural network mode for PX4.pdf"
+                "file": "Domain Randomization/Adaptive DR/Active_Domain_Randomization.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "A neural network mode for PX4"
+              "title": "Active_Domain_Randomization"
             }
           },
           {
@@ -73,14 +73,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Gaussian Process/GP Theory/EVALUATION OF GAUSSIAN PROCESSES AND OTHER METHODS FOR NON-LINEAR REGRESSION.pdf"
+                "file": "Domain Randomization/Adaptive DR/Learning_Domain_Randomization_Distributions_for_Training_Robust_Locomotion_Policies.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "EVALUATION OF GAUSSIAN PROCESSES AND OTHER METHODS FOR NON-LINEAR REGRESSION"
+              "title": "Learning_Domain_Randomization_Distributions_for_Training_Robust_Locomotion_Policies"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -137,7 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 380.5
   },
   "right": {
     "id": "f9b15d41e4a94fdf",
@@ -222,22 +222,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe823a2250300d02",
+  "active": "3fbdb855c49b73b4",
   "lastOpenFiles": [
-    "Memoires/2019_PierreYvesLajoie.pdf",
-    "A neural network mode for PX4.pdf",
-    "Memoires/2025_Alice.pdf",
-    "Gaussian Process/Gaussian_Processes_and_Reinforcement_Learning_for_Identification_and_Control_of_an_Autonomous_Blimp.pdf",
+    "Domain Randomization/Adaptive DR/Fingerprint Policy Optimization for Robust RL.pdf",
+    "Domain Randomization/Adaptive DR/Closing the Sim-to-Real Loop- Adapting Simulation Randomization with Real World Experience.pdf",
+    "Gaussian Process/GP Theory/EVALUATION OF GAUSSIAN PROCESSES AND OTHER METHODS FOR NON-LINEAR REGRESSION.pdf",
+    "Gaussian Process/GP Theory/System Dynamics prediction/Dynamic Systems Identification with Gaussian Processes.pdf",
     "PRISM.pdf",
     "Gaussian Process/GP Theory/Gaussian-processes-for-regression.pdf",
-    "2504.20520v1.pdf",
-    "Gaussian Process/GP Theory/System Dynamics prediction/Dynamic Systems Identification with Gaussian Processes.pdf",
-    "Gaussian Process/GP Theory/EVALUATION OF GAUSSIAN PROCESSES AND OTHER METHODS FOR NON-LINEAR REGRESSION.pdf",
-    "RL Theory/RLbook2020.pdf",
-    "Gaussian Process/GP Theory/System Dynamics prediction/A case based comparison of identification with neural network and Gaussian process models.pdf",
+    "A neural network mode for PX4.pdf",
+    "Domain Randomization/Adaptive DR/Active_Domain_Randomization.pdf",
+    "Gaussian Process/GP with RL/GP for value or policy estimation/Autonomous_blimp_control_using_model-free_reinforcement_learning_in_a_continuous_state_and_action_space.pdf",
+    "Gaussian Process/GP with RL/GP for value or policy estimation/Adaptive_autonomous_control_using_online_value_iteration_with_gaussian_processes.pdf",
+    "Gaussian Process/GP with RL/GP for value or policy estimation/Real2Sim2Real_Self-Supervised_Learning_of_Physical_Single-Step_Dynamic_Actions_for_Planar_Robot_Casting.pdf",
+    "Domain Randomization/Domain Randomization.md",
     "Domain Randomization/Learning Locomotion for Quadruped Robots via Distributional Ensemble Actor-Critic.md",
     "RL Theory/Natural Policy Gradient.md",
-    "Domain Randomization/Domain Randomization.md",
     "Learning Domain Randomization Distributions for Training Robust Locomotion Policies.md",
     "Closing the Sim2Real Loop.md",
     "Domain Randomization/Adaptive DR/Active_Domain_Randomization.md",
