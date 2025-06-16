@@ -51,10 +51,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Memoires/2021_SamuelArseneault.pdf"
+                "file": "Gaussian Process/GP with RL/GP for value or policy estimation/Adaptive_autonomous_control_using_online_value_iteration_with_gaussian_processes.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "2021_SamuelArseneault"
+              "title": "Adaptive_autonomous_control_using_online_value_iteration_with_gaussian_processes"
             }
           },
           {
@@ -82,6 +82,18 @@
             }
           },
           {
+            "id": "15f62410793a4948",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Memoires/2022_UlrichDahAchinanon.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "2022_UlrichDahAchinanon"
+            }
+          },
+          {
             "id": "087943829c2cece4",
             "type": "leaf",
             "state": {
@@ -94,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -236,19 +248,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a02b3637b36da0f",
+  "active": "2c64413772378a73",
   "lastOpenFiles": [
-    "Memoires/2021_SamuelArseneault.pdf",
-    "Gaussian Process/GP Theory/Gaussian-processes-for-regression.pdf",
     "Memoires/2025_Alice.pdf",
-    "Memoires/2022_DavidVielfaure.pdf",
+    "Memoires/2022_UlrichDahAchinanon.pdf",
     "Memoires/2021_NicolasValenchon.pdf",
     "Memoires/2019_PierreYvesLajoie.pdf",
+    "Gaussian Process/GP with RL/GP for value or policy estimation/Adaptive_autonomous_control_using_online_value_iteration_with_gaussian_processes.pdf",
+    "Memoires/2021_SamuelArseneault.pdf",
+    "Gaussian Process/GP Theory/Gaussian-processes-for-regression.pdf",
+    "Memoires/2022_DavidVielfaure.pdf",
     "Memoires/2021_YannBouteiller.pdf",
     "Memoires/2020_BenjaminRamtoula.pdf",
     "Domain Randomization/Adaptive DR/Neural Posterior Domain Randomization.pdf",
-    "Domain Randomization/Adaptive DR/Preparing for the Unknown- Learning a Universal Policy with Online System Identification.pdf",
-    "Domain Randomization/Adaptive DR/Learning_Locomotion_for_Quadruped_Robots_via_Distributional_Ensemble_Actor-Critic.pdf",
     "RL Theory/Natural Policy Gradient.md",
     "System Identification/Dynamic System Identification.md",
     "RL Formulation.md",
