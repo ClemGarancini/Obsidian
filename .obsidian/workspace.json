@@ -87,10 +87,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Memoires/2022_UlrichDahAchinanon.pdf"
+                "file": "Memoires/2019_PierreYvesLajoie.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "2022_UlrichDahAchinanon"
+              "title": "2019_PierreYvesLajoie"
             }
           },
           {
@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -248,15 +248,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c64413772378a73",
+  "active": "8a02b3637b36da0f",
   "lastOpenFiles": [
-    "Memoires/2025_Alice.pdf",
-    "Memoires/2022_UlrichDahAchinanon.pdf",
-    "Memoires/2021_NicolasValenchon.pdf",
     "Memoires/2019_PierreYvesLajoie.pdf",
+    "Memoires/2021_NicolasValenchon.pdf",
+    "Memoires/2022_UlrichDahAchinanon.pdf",
     "Gaussian Process/GP with RL/GP for value or policy estimation/Adaptive_autonomous_control_using_online_value_iteration_with_gaussian_processes.pdf",
-    "Memoires/2021_SamuelArseneault.pdf",
     "Gaussian Process/GP Theory/Gaussian-processes-for-regression.pdf",
+    "Memoires/2025_Alice.pdf",
+    "Memoires/2021_SamuelArseneault.pdf",
     "Memoires/2022_DavidVielfaure.pdf",
     "Memoires/2021_YannBouteiller.pdf",
     "Memoires/2020_BenjaminRamtoula.pdf",
